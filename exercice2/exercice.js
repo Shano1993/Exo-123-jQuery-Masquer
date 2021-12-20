@@ -1,3 +1,4 @@
 $("p").click(function(){
-    $(this).method();
+    $(this).hide(5000);
 });
+
